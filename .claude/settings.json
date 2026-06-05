@@ -2,6 +2,9 @@
   "permissions": {
     "allow": ["Bash"],
     "deny": [],
-    "ask": []
-  }
+    "ask": [],
+    "defaultmode": "plan",
+    "additional_instructions": ["../course/README.md"]
+  },
+  "outputStyle": "explanatory"
 }
