@@ -3,6 +3,5 @@
     "allow": ["Bash"],
     "deny": [],
     "ask": []
-  },
-  "outputStyle": "explanatory"
+  }
 }
